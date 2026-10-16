@@ -7,6 +7,8 @@
 
 ## 📸 Visão Geral da Interface (`v12`)
 
+> 📘 **Documentação Técnica & Manual do NOC:** Consulte o [**Manual Operacional NOC & Arquitetura Técnica**](docs/MANUAL_NOC_E_ARQUITETURA.md) para detalhes sobre a inclusão automática de novos links no grupo `SGS_LINKS_GRAFANA` e mapeamento de portas SNMP.
+
 ![Dashboard Geral de Modems & Links WAN](assets/sgs_modem_dashboard.png)
 
 ---
